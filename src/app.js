@@ -1,5 +1,6 @@
 import path from 'node:path'
 
+
 import compression from 'compression'
 import cors from 'cors'
 import express from 'express'
@@ -8,7 +9,6 @@ import configureView from './config/view.js'
 import { errorHandler, notFoundHandler } from './middleware/error.middleware.js'
 import apiRoutes from './routes/api.routes.js'
 import webRoutes from './routes/web.routes.js'
-
 const app = express()
 
 configureView(app)

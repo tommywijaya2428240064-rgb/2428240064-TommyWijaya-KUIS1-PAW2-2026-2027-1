@@ -1,5 +1,5 @@
 {
-  "name": "kuis1PAW2",
+  "name": "kuis1paw2",
   "version": "1.0.0",
   "description": "",
   "keywords": [
@@ -36,5 +36,13 @@
     "nodemon": "^3.1.14",
     "oxfmt": "^0.66.0",
     "oxlint": "^1.81.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommywijaya2428240064-rgb/2428240064-TommyWijaya-KUIS1-PAW2-2026-2027-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tommywijaya2428240064-rgb/2428240064-TommyWijaya-KUIS1-PAW2-2026-2027-1/issues"
+  },
+  "homepage": "https://github.com/tommywijaya2428240064-rgb/2428240064-TommyWijaya-KUIS1-PAW2-2026-2027-1#readme"
 }
